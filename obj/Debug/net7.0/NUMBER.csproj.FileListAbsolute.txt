@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/NUMBER/bin/Debug/net7.0/NUMBER
+/Users/macos/Desktop/Operator/NUMBER/bin/Debug/net7.0/NUMBER.deps.json
+/Users/macos/Desktop/Operator/NUMBER/bin/Debug/net7.0/NUMBER.runtimeconfig.json
+/Users/macos/Desktop/Operator/NUMBER/bin/Debug/net7.0/NUMBER.dll
+/Users/macos/Desktop/Operator/NUMBER/bin/Debug/net7.0/NUMBER.pdb
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.dll
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/refint/NUMBER.dll
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.pdb
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/NUMBER.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/NUMBER/obj/Debug/net7.0/ref/NUMBER.dll
